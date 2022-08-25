@@ -6,7 +6,7 @@ spring:
   redis:
     password: foobared
     port: 6379
-    host: 47.101.155.194
+    host: 127.0.0.1
     database: 9
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
