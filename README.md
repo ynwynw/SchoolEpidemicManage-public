@@ -1,8 +1,8 @@
 **需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
 
-#校园疫情管理系统 #java web #java #毕业设计 #课程设计 #编程 #mybatis #Springboot #源代码 #bootstrap #mysql
+#校园疫情管理系统 #java web #java #毕业设计 #课程设计 #mybatis #Springboot  #vue #mysql #源代码
 
-## 基于Springboot的校园疫情系统(源代码+数据库)
+## 基于Springboot+vue的校园疫情系统(源代码+数据库)
 
 ## 一、系统介绍
 本项目分为管理员与普通用户两种角色
