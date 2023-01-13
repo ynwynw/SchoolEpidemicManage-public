@@ -1,10 +1,10 @@
 **需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
 
-**视频演示
-[B站视频演示](https://www.bilibili.com/video/BV1wA411X7C9/?spm_id_from=333.999.0.0&vd_source=86b67ced0abaf53254990740e283ed13)**
+**博客地址：[https://blog.csdn.net/2303_76227485/article/details/128662846](https://blog.csdn.net/2303_76227485/article/details/128662846)**
 
-**毕业设计所有选题地址
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+**视频演示：[https://www.bilibili.com/video/BV1wA411X7C9](https://www.bilibili.com/video/BV1wA411X7C9)**
+
+**毕业设计所有选题地址：[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
 ## 基于Springboot+vue的校园疫情系统(源代码+数据库)
 
