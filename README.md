@@ -1,4 +1,6 @@
-**需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
+**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
+
+**接毕业设计和论文**
 
 **博客地址：[https://blog.csdn.net/2303_76227485/article/details/128662846](https://blog.csdn.net/2303_76227485/article/details/128662846)**
 
